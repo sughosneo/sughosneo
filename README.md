@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on niche technologies.
 - 🌱 Learning from various sources.
-- 👯 Getting inspired from others.
+- 👯 Getting inspired by others.
 - 💬 Ask me anything !
 - 📫 You can reach me @sughosneo
 - 😄 Pronouns: he/him/his
