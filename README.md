@@ -10,8 +10,6 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a serious person 🤣
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sughosneo.github.io/blogs/)
@@ -20,3 +18,7 @@
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7780215/sumit-ghosh)
 
 <br />
+
+---
+
+<img align="left" alt="sughosneo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sughosneo&count_private=true&show_icons=true&hide_border=true">
